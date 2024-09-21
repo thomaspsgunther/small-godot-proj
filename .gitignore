@@ -1,0 +1,5 @@
+# VS Code specific ignores
+.vscode/settings.json
+
+# Godot 4+ specific ignores
+.godot/

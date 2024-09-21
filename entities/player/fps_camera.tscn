@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dhash7cmiqdft"]
+
+[ext_resource type="Script" path="res://entities/player/FPSCamera.cs" id="1_1o5in"]
+
+[node name="FPSCamera" type="Camera3D"]
+script = ExtResource("1_1o5in")
